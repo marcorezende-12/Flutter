@@ -1,2 +1,2 @@
 # Flutter
-Método K para solução de problema de flutter aeroelástico bidimensional
+k-method for 2D aeroelastic flutter analysis
